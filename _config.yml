@@ -1,0 +1,11 @@
+# basic options, comment
+title: New-awesome-blog
+author: Aparna
+email: your-email@domain.com
+description: A lovely wonderful blog
+twitter_username: apsmachi
+github_username: aparnamachiraju
+
+# Build settings
+markdown: Kramdown
+theme: minima
